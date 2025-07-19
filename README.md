@@ -1,4 +1,4 @@
-## Genesis Sierra IT Project Portfolio
+# <a href="https://www.linkedin.com/in/genesis-sierra/">Genesis Sierra</a>'s IT Project Portfolio
 I'm a passionate IT support learner who enjoys solving technical issues through hands-on projects. From managing user accounts in Active Directory to configuring systems and troubleshooting network or software problems, my work highlights key areas of IT support functions. These projects reflect my commitment to delivering reliable tech support and improving system efficiency. Feel free to explore my projects to see how I approach real-world IT scenarios!
 ## 🤳 Connect With Me
 
