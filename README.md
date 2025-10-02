@@ -8,6 +8,9 @@ I'm a passionate IT support learner who enjoys solving technical issues through 
 
 - <b>DNS (Domain Name System)</b>
   - [DNS: Hands-On DNS Exploration](https://github.com/genesis-sierra/dns-hands-on-exploration)
+ 
+- <b>Help Desk Ticketing System</b>
+
 
 ## 🤳 Connect With Me
 
