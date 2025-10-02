@@ -3,7 +3,7 @@ I'm a passionate IT support learner who enjoys solving technical issues through 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>DNS (Active Directory)</b>
+- <b>Active Directory</b>
   -
 
 - <b>DNS (Domain Name System)</b>
