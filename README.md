@@ -4,7 +4,7 @@ I'm a passionate IT support learner who enjoys solving technical issues through 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  -
+  - [Active Directory: Domain Setup and User Administration](https://github.com/genesis-sierra/Active-Directory-Domain-Setup-and-User-Administration)
 
 - <b>DNS (Domain Name System)</b>
   - [DNS: Hands-On DNS Exploration](https://github.com/genesis-sierra/dns-hands-on-exploration)
